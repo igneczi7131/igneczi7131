@@ -63,4 +63,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igneczi7131&" alt="igneczi7131" /></p>
 
-![image](https://github.com/user-attachments/assets/3018aa3e-123d-419a-8bd9-548cd06b3f7a)
+<img width="676" height="1138" alt="image" src="https://github.com/user-attachments/assets/7aaf20b1-1782-4552-8d1b-d6fd5996e8a0" />
+
