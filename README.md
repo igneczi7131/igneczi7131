@@ -5,14 +5,14 @@
 </a>
 
 <a href="https://github.com/igneczi7131">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2200&pause=900&color=9ECE6A&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;MERN+Stack+Engineer;Godot+Game+Developer;Musician+%F0%9F%8E%B8;Team+Leader" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2200&pause=900&color=9ECE6A&center=true&vCenter=true&width=520&lines=AI+Engineer;Full-Stack+Developer;MERN+Stack+Engineer;Godot+Game+Developer;Musician+%F0%9F%8E%B8" alt="Roles" />
 </a>
 
 <br/>
 
 [![Website](https://img.shields.io/badge/-igneczitibor.hu-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://igneczitibor.hu/)
-[![Location](https://img.shields.io/badge/-Debrecen%2C%20Hungary-9ECE6A?style=for-the-badge&logo=googlemaps&logoColor=white)](https://en.wikipedia.org/wiki/Debrecen)
-[![Company](https://img.shields.io/badge/-Magic%20Pixel%20Kft.-BB9AF7?style=for-the-badge&logo=gamejolt&logoColor=white)](https://github.com/igneczi7131)
+[![Location](https://img.shields.io/badge/-Budapest%2C%20Hungary-9ECE6A?style=for-the-badge&logo=googlemaps&logoColor=white)](https://en.wikipedia.org/wiki/Budapest)
+[![Company](https://img.shields.io/badge/-Entel%20Kft.-BB9AF7?style=for-the-badge&logo=briefcase&logoColor=white)](https://github.com/igneczi7131)
 
 <img src="https://komarev.com/ghpvc/?username=igneczi7131&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
 
@@ -22,12 +22,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science MSc student at the **University of Debrecen**
-- 💼 Full-Stack Developer at **Magic Pixel Kft.**
-- 🌐 Building with the **MERN stack** (MongoDB · Express · React · Node.js)
+- 🎓 Computer Science MSc from the **University of Debrecen**
+- 💼 Working at **Entel Kft.**, focused on **AI Engineering**
+- 🤖 Building AI-powered apps and agentic systems on top of LLMs
+- 🌐 Full-stack background with the **MERN stack** (MongoDB · Express · React · Node.js)
 - 🎮 Developing games in **Godot**
 - 🎸 Guitarist & music enthusiast
-- 🇭🇺 Based in Debrecen, Hungary
+- 🇭🇺 Based in Budapest, Hungary
 - 📫 Reach me through [igneczitibor.hu](https://igneczitibor.hu/)
 
 <br/>
@@ -45,6 +46,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI & Machine Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Frameworks & Libraries**
 
