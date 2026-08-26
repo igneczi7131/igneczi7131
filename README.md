@@ -80,12 +80,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=igneczi7131&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igneczi7131&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=igneczi7131&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igneczi7131&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=igneczi7131&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=igneczi7131&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=igneczi7131&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=igneczi7131&theme=tokyo-night&hide_border=true&bg_color=00000000&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%" />
 
 </div>
 
